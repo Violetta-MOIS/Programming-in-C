@@ -1,0 +1,3 @@
+spisok() - массив
+spisok(int a, int*chislo_2) -  массив с элементами внутри
+friend std::ostream& operator<<(std::ostream& stream, spisok& l) - вывод массива
